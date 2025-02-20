@@ -14,7 +14,7 @@ https://learn.microsoft.com/en-us/graph/api/user-list-calendarview?view=graph-re
 
 <pre>
 # Define the user and time range
-$user = "exouser11@rnmst1.com"
+$user = "user@domain.com"
 
 # Define your Azure AD app credentials
 $tenantId = "YOUR_TENANT_ID"
